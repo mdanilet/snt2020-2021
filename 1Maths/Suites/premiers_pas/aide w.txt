@@ -1,0 +1,2 @@
+Si n=0 alors retourne 3
+Sinon retourne 2*w(n-1)-4
